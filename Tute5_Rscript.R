@@ -1,8 +1,14 @@
-##############################################
-####### ECOM20001 Econometrics 1 Tute 5 ######
-###########  fan.z@unimelb.edu.au  ###########
-##############################################
+# -------------------------------------------#
+# ----- ECOM20001 Econometrics 1 Tute 5 -----#
+# --------- fan.z@unimelb.edu.au ------------# 
+# -------------------------------------------#
+# The code can be downloaded via:
+# https://github.com/zhengf1/2023ECOM1
+# -------------------------------------------#
 
+# set the working directory on the path of the Rscript!
+# very handy, 
+# but you have to save the Rscript to the correct folder!
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 ########## Pre-tute Q1 and In-tute Q1
